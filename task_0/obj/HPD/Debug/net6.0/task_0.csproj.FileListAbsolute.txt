@@ -1,0 +1,15 @@
+Z:\GB\C#\Praktika\Ex001\task_0\bin\HPD\Debug\net6.0\task_0.exe
+Z:\GB\C#\Praktika\Ex001\task_0\bin\HPD\Debug\net6.0\task_0.deps.json
+Z:\GB\C#\Praktika\Ex001\task_0\bin\HPD\Debug\net6.0\task_0.runtimeconfig.json
+Z:\GB\C#\Praktika\Ex001\task_0\bin\HPD\Debug\net6.0\task_0.dll
+Z:\GB\C#\Praktika\Ex001\task_0\bin\HPD\Debug\net6.0\task_0.pdb
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.csproj.AssemblyReference.cache
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.AssemblyInfoInputs.cache
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.AssemblyInfo.cs
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.csproj.CoreCompileInputs.cache
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.dll
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\refint\task_0.dll
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.pdb
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\task_0.genruntimeconfig.cache
+Z:\GB\C#\Praktika\Ex001\task_0\obj\HPD\Debug\net6.0\ref\task_0.dll
