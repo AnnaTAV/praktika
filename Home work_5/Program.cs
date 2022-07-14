@@ -11,6 +11,6 @@ Console.WriteLine($"{num} -> {result}");
 int RemoveSecond(int num)
 {
     int first = num % 100;
-    int second = num / 10;// int second = num * 10;
-    return second % 10;// return first * 10 + third;
+    int second = num / 10;
+    return second % 10;
 }
