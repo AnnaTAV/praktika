@@ -16,7 +16,7 @@ int[] CreateArrayRndInd (int size, int min, int max)
 int SumPosElem(int[] array)
 {
     int sumPos = 0;
-    for (int i = 0; i < array.Length; i+=2)
+    for (int i = 1; i < array.Length; i+=2)
     {
         sumPos = sumPos + array[i];
     }
