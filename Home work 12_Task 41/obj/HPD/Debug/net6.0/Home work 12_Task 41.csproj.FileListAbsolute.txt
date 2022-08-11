@@ -1,0 +1,15 @@
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\bin\HPD\Debug\net6.0\Home work 12_Task 41.exe
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\bin\HPD\Debug\net6.0\Home work 12_Task 41.deps.json
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\bin\HPD\Debug\net6.0\Home work 12_Task 41.runtimeconfig.json
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\bin\HPD\Debug\net6.0\Home work 12_Task 41.dll
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\bin\HPD\Debug\net6.0\Home work 12_Task 41.pdb
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.csproj.AssemblyReference.cache
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.AssemblyInfoInputs.cache
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.AssemblyInfo.cs
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.csproj.CoreCompileInputs.cache
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.dll
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\refint\Home work 12_Task 41.dll
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.pdb
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\Home work 12_Task 41.genruntimeconfig.cache
+Z:\GB\C#\Praktika\Ex001\Home work 12_Task 41\obj\HPD\Debug\net6.0\ref\Home work 12_Task 41.dll
