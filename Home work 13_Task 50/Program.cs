@@ -15,7 +15,6 @@ int m = Convert.ToInt32(Console.ReadLine());
 int[,] matrixResult = GetMatrix(3, 4);
 PrintMatrix(matrixResult);
 
-
 if (n > matrixResult.GetLength(0) || m > matrixResult.GetLength(1))
 {
     Console.WriteLine("--!!!-- Такого элемента нет --!!!--");
@@ -24,8 +23,6 @@ else
 {
     Console.WriteLine($"Элемент [{n}] строки и столбца [{m}] = {matrixResult[n-1,m-1]}");
 }
-
-
 
 int[,] GetMatrix(int m, int n)
 {
@@ -40,9 +37,6 @@ int[,] GetMatrix(int m, int n)
     }
     return matrix;
 }
-
-
-
 
 void PrintMatrix(int[,] array)
 {
