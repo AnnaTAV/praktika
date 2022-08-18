@@ -1,0 +1,15 @@
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.csproj.AssemblyReference.cache
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.AssemblyInfoInputs.cache
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.AssemblyInfo.cs
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.csproj.CoreCompileInputs.cache
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\bin\HPD\Debug\net6.0\Home work 14_Task 56.exe
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\bin\HPD\Debug\net6.0\Home work 14_Task 56.deps.json
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\bin\HPD\Debug\net6.0\Home work 14_Task 56.runtimeconfig.json
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\bin\HPD\Debug\net6.0\Home work 14_Task 56.dll
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\bin\HPD\Debug\net6.0\Home work 14_Task 56.pdb
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.dll
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\refint\Home work 14_Task 56.dll
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.pdb
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\Home work 14_Task 56.genruntimeconfig.cache
+Z:\GB\C#\Praktika\Ex001\Home work 14_Task 56\obj\HPD\Debug\net6.0\ref\Home work 14_Task 56.dll
